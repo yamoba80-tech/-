@@ -1,0 +1,6 @@
+{
+  "name": "الدروس الإحدى عشر في علم البيانات",
+  "description": "منصة تعليمية تفاعلية وأنيقة تربط بين الدروس الإحدى عشرة وتنسق محتواها التعليمي وسلسلة السببية والنماذج الذهنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
